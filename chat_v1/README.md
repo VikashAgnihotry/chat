@@ -1,5 +1,5 @@
 # chat_v1
-
+version 1.0
 A new Flutter project.
 
 ## Getting Started
